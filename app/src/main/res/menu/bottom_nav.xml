@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/newsFragment"
+        android:icon="@drawable/lunar"
+        android:title="луна"/>
+
+    <item
+        android:id="@+id/adsFragment"
+        android:icon="@drawable/pictogram_calendar"
+        android:title="календарь" />
+
+    <item
+        android:id="@+id/passFragment"
+        android:icon="@drawable/pictogram_place"
+        android:title="место" />
+
+    <item
+        android:id="@+id/votesListFragment"
+        android:icon="@drawable/pictogram_menu"
+        android:title="меню"/>
+
+</menu>

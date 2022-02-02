@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2A2B30</color>
+    <color name="colorPrimaryDark">#2A2B30</color>
+    <color name="colorAccent">#ED5742</color>
+    <color name="start_auth_color_btn_skip">#006DF0</color>
+    <color name="textColorPrimary">#ffffff</color>
+    <color name="textColor">#000000</color>
+    <color name="windowBackground">#fff</color>
+    <color name="start_onboard_text_color">#000000</color>
+    <color name="start_onboard_btn_text_color">#ffffff</color>
+    <color name="start_auth_title_color">#000000</color>
+    <color name="start_auth_edtext">#000000</color>
+    <color name="main_title_active_color">#000000</color>
+    <color name="main_color_top_elevation">#E9ECF2</color>
+    <color name="colorTextItemBusinessCard">#000000</color>
+    <color name="color_text_item_discount">#ffffff</color>
+    <color name="color_top_text_edit_card">#ED5742</color>
+    <color name="color_text_edit_business_new_card">#575757</color>
+    <color name="color_edit_card_text_delete_business_card">#ffffff</color>
+    <color name="color_green_save_business_card">#7EA82A</color>
+    <color name="color_green_settngs_progress">#7EA82A</color>
+    <color name="color_text_under_progress">#000000</color>
+    <color name="color_text_indicator">#ffffff</color>
+    <color name="text_color_title_viewing">#000000</color>
+    <color name="color_line_under_name_group">#000000</color>
+    <color name="text_color_item_contact">#000000</color>
+    <color name="color_top_bar_camera">#ffffff</color>
+    <color name="title_color_top_bar_camera">#000000</color>
+    <color name="color_et_tags_text">#000000</color>
+    <color name="color_et_tags_bg">#1A000000</color>
+    <color name="color_title_create_card">#000000</color>
+    <color name="color_grey">#F4F4F4</color>
+    <color name="color_btn_bottom_bg">#B9EDEDED</color>
+    <color name="color_text_i_here">#ffffff</color>
+    <color name="color_text_btn_create_discount_card">#000000</color>
+    <color name="text_item_shop">#000000</color>
+    <color name="item_shop_border">#CFCFCF</color>
+    <color name="text_shop_title">#000000</color>
+    <color name="color_title_name_shop">#000000</color>
+    <color name="colorBgItemBusinessCard">#ffffff</color>
+    <color name="contactTitle">#646464</color>
+    <color name="colorEtHint">#979797</color>
+    <color name="colorBgImgUser">#D8D8D8</color>
+    <color name="colorImgUser">#EDEDED</color>
+    <color name="colorBtnAdd">#000000</color>
+    <color name="colorTitleContact">#000000</color>
+    <color name="colorBtnIcon">#000000</color>
+    <color name="colorTitleEmptyList">#DADADA</color>
+    <color name="colorChip">@color/colorAccent</color>
+    <color name="color_btn_buy">#2F80ED</color>
+    <color name="color_text_btn">#ffffff</color>
+    <color name="background_camera">#5C5858</color>
+    <color name="background_camera_alpha">#A6000000</color>
+    <color name="tagsTitle">#777777</color>
+
+
+    <color name="itemSelected">#FFF382</color>
+    <color name="itemUnSelected">#6D89A8</color>
+    <color name="bottom_nav_background">#143153</color>
+
+
+</resources>

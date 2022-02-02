@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/newsFragment"
+        android:icon="@drawable/ic_news"
+        android:title="Новости"/>
+
+    <item
+        android:id="@+id/adsFragment"
+        android:icon="@drawable/ic_ads"
+        android:title="Объявления" />
+
+    <item
+        android:id="@+id/passFragment"
+        android:icon="@drawable/ic_cars"
+        android:title="Пропуска" />
+
+    <item
+        android:id="@+id/votesListFragment"
+        android:icon="@drawable/ic_questions"
+        android:title="Опросники"/>
+
+    <item
+        android:id="@+id/root_info_fragment"
+        android:icon="@drawable/ic_info"
+        android:title="Инфо"/>
+</menu>
